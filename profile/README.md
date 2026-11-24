@@ -194,7 +194,8 @@
  
 | 저장소 | 내용 |
 | --- | --- |
-| [AI-DATA](https://github.com/HSU-Oncampus-Internship/AI-DATA) | 상품 수집, 의심 신호 탐지, 신고 지원, 이미지 유사도 AI |
+| [AI-DATA](https://github.com/HSU-Oncampus-Internship/AI-DATA) | 상품 수집, 의심 신호 탐지, 신고 지원 |
+| [AI-Similarity](https://github.com/HSU-Oncampus-Internship/AI-SIMILARITY) | 이미지 유사도 |
 | [BE](https://github.com/HSU-Oncampus-Internship/BE) | 인증, 기관별 권한, 검토·판매자·신고 API |
 | [FE](https://github.com/HSU-Oncampus-Internship/FE) | 담당자 검토 화면, 대시보드 |
  
