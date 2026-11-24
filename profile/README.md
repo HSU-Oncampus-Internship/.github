@@ -194,7 +194,7 @@
  
 | 저장소 | 내용 |
 | --- | --- |
-| [AI-DATA](https://github.com/HSU-Oncampus-Internship/AI-DATA) | 상품 수집, 의심 신호 탐지, 신고 지원 |
+| [AI-DATA](https://github.com/HSU-Oncampus-Internship/AI-DATA) | 상품 수집(쿠팡·테무·알리·네이버), 의심 신호 탐지, 판매자 추적, 증거·신고 지원 |
 | [AI-Similarity](https://github.com/HSU-Oncampus-Internship/AI-SIMILARITY) | 이미지 유사도 |
 | [BE](https://github.com/HSU-Oncampus-Internship/BE) | 인증, 기관별 권한, 검토·판매자·신고 API |
 | [FE](https://github.com/HSU-Oncampus-Internship/FE) | 담당자 검토 화면, 대시보드 |
@@ -218,9 +218,9 @@
 | 이름 | 역할 | 주요 담당 |
 | --- | --- | --- |
 | [양다원](https://github.com/Dawon-Y) | 팀장 · AI/Data | 상품 수집(쿠팡·테무·알리·네이버), 의심 신호 탐지, 판매자 추적, 증거·신고 지원 |
-| 문선우 | AI/Data | 이미지 유사도 AI |
-| 정민지 | Backend | Spring Boot API, DB 설계 |
-| 송지원 | Frontend | 검토 화면, 대시보드 |
+| [문선우](https://github.com/moonsun01) | AI/Data | 이미지 유사도 AI |
+| [정민지](https://github.com/mint0326) | Backend | Spring Boot API, DB 설계 |
+| [송지원](https://github.com/songjiwon17) | Frontend | 검토 화면, 대시보드 |
  
 ---
  
